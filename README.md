@@ -1,2 +1,2 @@
 # Roller-Costar-Project
-Beginner  Level Project of Data cleaning, Data visualization for an Data Analyst. 
+This data contains information about over 1000 rollercoasters. Information was scraped from wikipedia.We are going to analyze this data using python libraries such as pandas,matplotlib,seaborn.
